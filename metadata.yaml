@@ -1,0 +1,31 @@
+_repo: Introductory-American-History_9897
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bourne, Henry Eldridge
+    alias: Bourne, H. E. (Henry Eldridge)
+    birthdate: 1862
+    deathdate: &id001 1946
+    gutenberg_agent_id: '3193'
+    url: http://www.gutenberg.org/2009/agents/3193
+  - agent_name: Benton, Elbert Jay
+    birthdate: 1871
+    deathdate: *id001
+    gutenberg_agent_id: '4640'
+    url: http://www.gutenberg.org/2009/agents/4640
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcc 'E151'
+- GITenberg
+title: Introductory American History
+url: http://www.gutenberg.org/ebooks/9897
